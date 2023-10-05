@@ -1,0 +1,11 @@
+E:\2019Biyesheji\parking\parking\bin\Debug\parking.exe.config
+E:\2019Biyesheji\parking\parking\bin\Debug\parking.exe
+E:\2019Biyesheji\parking\parking\bin\Debug\parking.pdb
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.csproj.AssemblyReference.cache
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.Form1.resources
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.Properties.Resources.resources
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.exe
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.pdb
+E:\2019Biyesheji\parking\parking\obj\Debug\parking.menu.resources
